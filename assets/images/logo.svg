@@ -1,0 +1,6 @@
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="100" font-family="Arial" font-size="100">
+    <tspan fill="#FF6F61">Step</tspan>
+    <tspan fill="#000000">Up</tspan>
+  </text>
+</svg>
