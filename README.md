@@ -53,6 +53,21 @@ A responsive e-commerce website for premium footwear built with HTML, CSS, and J
 
 ---
 
+
+## 📦 Installation & Setup
+
+To run this project locally, follow these simple steps:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/rahul-kumar-1905/estate.git
+cd estate
+```
+
+---
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
