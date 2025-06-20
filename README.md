@@ -61,8 +61,8 @@ To run this project locally, follow these simple steps:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/rahul-kumar-1905/estate.git
-cd estate
+git clone https://github.com/rahul4work/stepup.git
+cd stepup
 ```
 
 ---
