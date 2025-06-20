@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-**A modern, responsive e-commerce platform crafted for premium footwear enthusiasts**
+A responsive e-commerce website for premium footwear built with HTML, CSS, and JavaScript.
 
 
 ## Features
